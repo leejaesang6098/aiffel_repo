@@ -136,9 +136,12 @@ AI와 사람 사이의 의사소통에 있어 문자가 중요한 부분을 차�
 
 
 아래는 저커버그 아내 입장에서 만나본 자비스 영상입니다. 부록 정도 되겠네요.
----
+
+---   
+
 카테고리:
-[Facebook](https://about.fb.com/ko/news/category/technologies/facebook-app/),[Messenger](https://about.fb.com/ko/news/category/technologies/messenger/),[Meta 회사관련 업데이트](https://about.fb.com/ko/news/category/meta/)
+[Facebook](https://about.fb.com/ko/news/category/technologies/facebook-app/),[Messenger](https://about.fb.com/ko/news/category/technologies/messenger/),[Meta 회사관련 업데이트](https://about.fb.com/ko/news/category/meta/)   
+
 ---
 
 
