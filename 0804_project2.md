@@ -11,7 +11,7 @@ GPT-4 발표한 오픈AI '샘 알트만', "AI가 사회를 재구성할 것이�
 ### 일자리를 대체할 가능성이 있으며 얼마나 빨리 일어날 수 있는지 걱정하고 있다   
 ### 고 밝혔다.
 
-<img src="https://cdn.aitimes.kr/news/photo/202303/27595_41566_124.jpg" width="700px" height="430px"></img><br/>   
+<img src="https://cdn.aitimes.kr/news/photo/202303/27595_41566_124.jpg" width="650px" height="430px"></img><br/>   
 ###### 오픈AI CEO 샘 알트만(사진:ABC방송 캡처)
 
 대화형 생성 인공지능(Generative AI) 챗GPT(ChatGPT)의 오픈AI CEO **샘 알트만**(**Sam**   
