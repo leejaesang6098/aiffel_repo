@@ -10,7 +10,7 @@ class FunnyDice:
         return self.val  # getter기능을 사용해서 외부에서 이 클래스에 접근할 때 해당 메서드를 사용하게 함
 
 
-def throw(): #throw 함수와 main 함수를 합침
+def throw():  # throw 함수와 main 함수를 합침
     n = int(input())
     dice = FunnyDice(n)
     print(f"행운의 숫자는? {dice.getval()}")
