@@ -9,12 +9,6 @@ class FunnyDice:
     def getval(self):
         return self.val  # getter기능을 사용해서 외부에서 이 클래스에 접근할 때 해당 메서드를 사용하게 함
 
-    def setval(self, val):
-        if val <= 0:
-            raise ValueError("Invalid number")
-        elif val < self.n:
-            self.val = val
-
 
 def throw():
     n = int(input())
