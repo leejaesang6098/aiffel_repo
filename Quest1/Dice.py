@@ -17,4 +17,4 @@ def throw():  # throw 함수와 main 함수를 합침
 
 
 if __name__ == '__main__':
-    throw() # test
+    throw() # test2
